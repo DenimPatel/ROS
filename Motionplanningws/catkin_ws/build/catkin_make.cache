@@ -1,0 +1,2 @@
+agent:planner
+-DCATKIN_DEVEL_PREFIX=/home/denim/Motionplanningws/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/denim/Motionplanningws/catkin_ws/install -G Unix Makefiles

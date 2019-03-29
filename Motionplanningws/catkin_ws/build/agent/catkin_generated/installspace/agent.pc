@@ -1,0 +1,8 @@
+prefix=/home/denim/Motionplanningws/catkin_ws/install
+
+Name: agent
+Description: Description of agent
+Version: 0.0.0
+Cflags: -I/home/denim/Motionplanningws/catkin_ws/install/include
+Libs: -L/home/denim/Motionplanningws/catkin_ws/install/lib 
+Requires: geometry_msgs nav_msgs message_generation roscpp planner
