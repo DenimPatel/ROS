@@ -1,5 +1,5 @@
 # ROS
-contains the ROS implementations
+contains the ROS implementation of motion planning pipeline.
 
 To run the code,
 1.  catkin_make in catkin_ws 
